@@ -1,0 +1,20 @@
+    species body_mass_g
+1    Adelie    3718.182
+2 Chinstrap    3741.538
+3    Gentoo    5069.828
+   species             island          bill_length_mm  bill_depth_mm   flipper_length_mm
+ Length:344         Length:344         Min.   :32.10   Min.   :13.10   Min.   :172.0    
+ Class :character   Class :character   1st Qu.:39.30   1st Qu.:15.60   1st Qu.:190.0    
+ Mode  :character   Mode  :character   Median :44.90   Median :17.30   Median :197.0    
+                                       Mean   :44.07   Mean   :17.15   Mean   :200.9    
+                                       3rd Qu.:48.70   3rd Qu.:18.70   3rd Qu.:213.0    
+                                       Max.   :59.60   Max.   :21.50   Max.   :231.0    
+                                       NA's   :35      NA's   :2       NA's   :17       
+  body_mass_g       sex            island_group      
+ Min.   :2700   Length:344         Length:344        
+ 1st Qu.:3569   Class :character   Class :character  
+ Median :4050   Mode  :character   Mode  :character  
+ Mean   :4207                                        
+ 3rd Qu.:4750                                        
+ Max.   :6300                                        
+ NA's   :20                                          
